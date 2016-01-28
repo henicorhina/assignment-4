@@ -30,3 +30,5 @@ def main():
 
 if __name__ == '__main__':
      main()
+
+# http://stackoverflow.com/questions/402504/how-to-determine-the-variable-type-in-python
